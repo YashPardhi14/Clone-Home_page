@@ -1,0 +1,46 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #f2f2f2;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+.image {
+  width: 100%;
+  max-width: 400px;
+  margin-bottom: 20px;
+}
+
+.title {
+  color: #00274c;
+  font-size: 48px;
+  margin-bottom: 10px;
+}
+
+.description {
+  color: #00274c;
+  font-size: 20px;
+  margin-bottom: 30px;
+  line-height: 1.5;
+}
+
+.button {
+  display: inline-block;
+  background-color: #005aa7;
+  color: #ffffff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+  margin-top: 10px;
+}
+
+/* excternal fontss………………
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap" rel="stylesheet"> */
